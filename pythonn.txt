@@ -3,4 +3,4 @@ otwórz cd - 0
 zrób ss`a - 0
 otworzenie procesu - 0
 powiadomienie windows - 0
-włączenie dźwięku - 1
+włączenie dźwięku - 
