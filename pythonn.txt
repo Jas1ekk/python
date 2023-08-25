@@ -1,6 +1,6 @@
 otwórz stronę - 0 | linijka 8 wklej link który ma zostać włączony
 otwórz cd - 0 | 0=OFF | 1=otwórz cd | 2=zamknij cd |
-zrób ss`a - 0
+zrób ss`a - 1
 otworzenie procesu - 0
 powiadomienie windows - 0
 
