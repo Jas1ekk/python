@@ -1,8 +1,8 @@
-otwórz stronę - 0
+otwórz stronę - 1
 otwórz cd - 0 | 0=OFF | 1=otwórz cd | 2=zamknij cd |
 zrób ss`a - 0
 otworzenie procesu - 0
 powiadomienie windows - 0
 
 # wklej url do otwarcia storny !!! NR 8 MUSI BYĆ !!!
-https://www.google.com
+https://www.youtube.com/watch?v=j_OPTk9EQKo
