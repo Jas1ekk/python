@@ -1,4 +1,4 @@
-otwórz stronę - 0
+otwórz stronę - 1
 otwórz cd - 0 | 0=OFF | 1=otwórz cd | 2=zamknij cd |
 zrób ss`a - 0
 otworzenie procesu - 0
